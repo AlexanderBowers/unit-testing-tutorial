@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AlexanderBowers/unit-testing-tutorial/issues"
   },
-  "homepage": "https://github.com/AlexanderBowers/unit-testing-tutorial#readme"
+  "homepage": "https://github.com/AlexanderBowers/unit-testing-tutorial#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
 }
